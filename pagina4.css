@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.background{
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.85),rgba(0,0,0,0.85)), url(https://wallpaperaccess.com/full/1209272.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.butões{
+    width: 97%;
+    margin: auto;
+    padding: 30px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+}
+.butões ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+.butões ul li a{
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+}
+.butões ul li::after{
+    content: '';
+    height: 3px;
+    width: 0;
+    background: #FFD700;
+    position: absolute;
+    left: 0;
+    bottom: -5px;
+    transition: 0.5s;
+}
+.butões ul li:hover::after{
+    width: 100%;
+}

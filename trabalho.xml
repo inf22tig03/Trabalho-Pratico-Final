@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animais xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="animal_schema.xsd">
+    <medicina>
+        <maquinas>
+            <data>1872</data>
+            <maquina>Primeiro eletrometro capilar</maquina>
+        </maquinas>
+    </medicina>
+    <medicina>
+        <organizações>
+            <nome>SPEA - Sociedade Portuguesa para o Estudo das Aves</nome>
+        </organizações>
+        <organizações>
+            <nome>IRA - Intervenção e Resgate animal</nome>
+        </organizações>
+        <organizações>
+            <nome>SOS Animal</nome>
+        </organizações>
+    </medicina>
+
+</animais>
