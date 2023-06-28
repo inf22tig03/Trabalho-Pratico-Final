@@ -1,5 +1,5 @@
 # Trabalho Pratico Final
-Introdução ao trabalho
+# Introdução ao trabalho
 Este trabalho tem como objetivo de apresentar informações sobre a
 medicina veterinária, neste caso oque é a medicina veterinária,
 informações necessárias tais como licenciaturas, incluindo historia
@@ -19,7 +19,7 @@ eletrocardiograma.
 Por último e não menos importante, até pelo contrário a página mais
 importante de todas, a página de maus-tratos aos animais e algumas
 organizações que devermos contactar.
-Interface do utilizador
+# Interface do utilizador
 De seguida tenho apenas um comentário a fazer pois fui capaz de
 melhorar ligeiramente a interface gráfica e até criar um botão de voltar
 para a página inicial.
